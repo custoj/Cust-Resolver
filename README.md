@@ -27,6 +27,8 @@
 ```
 两句话分别对应的是所有的`team`和所有的`run`，格式见`sample.xml`。注意`award`需要自己手动随便处理一下。
 
+
 ## Bugs
 
 * 貌似排名只支持分钟级
+* 待fix - `<first-to-solve>false</first-to-solve>`需要清理掉

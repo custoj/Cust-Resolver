@@ -1,0 +1,126 @@
+<contest>
+<info>
+   <title>A Contest</title>
+   <length>05:00:00</length>
+   <scoreboard-freeze-length>01:00:00</scoreboard-freeze-length>
+   <penalty>20</penalty>
+</info>
+<problem>
+   <id>1</id>
+</problem>
+<problem>
+   <id>2</id>
+</problem>
+<problem>
+   <id>3</id>
+</problem>
+<problem>
+   <id>4</id>
+</problem>
+<team>
+   <id>121</id>
+   <university>队伍名称1</university>
+</team>
+<team>
+   <id>122</id>
+   <university>没有队</university>
+</team>
+<team>
+   <id>123</id>
+   <university>比速度</university>
+</team>
+<team>
+   <id>124</id>
+   <university>有情绪</university>
+</team>
+<team>
+   <id>125</id>
+   <university>好选拔</university>
+</team>
+<run>
+   <id>3</id>
+   <problem>1</problem>
+   <team>121</team>
+   <time>110.523</time>
+   <judged>true</judged>
+   <solved>true</solved>
+   <penalty>false</penalty>
+   <first-to-solve>true</first-to-solve>
+</run>
+<run>
+   <id>4</id>
+   <problem>1</problem>
+   <team>122</team>
+   <time>152.958</time>
+   <judged>true</judged>
+   <solved>true</solved>
+   <penalty>false</penalty>
+</run>
+<run>
+   <id>5</id>
+   <problem>1</problem>
+   <team>123</team>
+   <time>153.628</time>
+   <judged>true</judged>
+   <solved>false</solved>
+   <penalty>true</penalty>
+</run>
+<run>
+   <id>6</id>
+   <problem>1</problem>
+   <team>124</team>
+   <time>14556.691</time>
+   <judged>true</judged>
+   <solved>false</solved>
+   <penalty>true</penalty>
+</run>
+<run>
+   <id>7</id>
+   <problem>1</problem>
+   <team>125</team>
+   <time>4157.132</time>
+   <judged>true</judged>
+   <solved>true</solved>
+   <penalty>false</penalty>
+</run>
+<run>
+   <id>8</id>
+   <problem>1</problem>
+   <team>1</team>
+   <time>1180.523</time>
+   <judged>true</judged>
+   <solved>true</solved>
+   <penalty>true</penalty>
+</run>
+
+<award>
+   <team>121</team>
+   <type>winner</type>
+   <citation>Champion</citation>
+</award>
+<award>
+   <team>122</team>
+   <type>medal</type>
+   <citation>Not Gold Medalist</citation>
+</award>
+<award>
+   <team>123</team>
+   <type>medal</type>
+   <citation>铁牌</citation>
+</award>
+<award>
+   <team>125</team>
+   <type>medal</type>
+   <citation>Silver Medalist - 银奖</citation>
+</award>
+<award>
+   <team>124</team>
+   <type>medal</type>
+   <citation>Bronze Medalist</citation>
+</award>
+<award>
+   <team>121</team>
+   <type>first_to_solve</type>
+   <citation>A题一血</citation>
+</award>
+</contest>

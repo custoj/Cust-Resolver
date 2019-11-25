@@ -15,7 +15,11 @@
 
 ## Usage
 
-直接上服务器操库，分别跑`query.sql`里的两句话。执行方法如下
+适用于基于`OnlineJudge(QDUOJ)`的比赛
+
+直接上服务器进`postgres`操库，跑`query.sql`里的一句话。记得修改`contest_id`和`username`正则匹配格式~
+
+执行方法如下
 ```
 \o PATH_TO_FILE
 ...
